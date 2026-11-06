@@ -90,6 +90,7 @@ Note: Overall sales revenue includes transactions without customer IDs. RFM reve
 text
 ## Project Structure
 
+## Project Structure
 
 Ecommerce-Business-Analytics/
 │
@@ -106,7 +107,7 @@ Ecommerce-Business-Analytics/
 │       └── returns_analysis.csv
 │
 ├── Python/
-│   └── data_cleaning_and_analysis.ipynb
+│   └── 01_Data_Understanding.ipynb
 │
 ├── SQL_Analysis/
 │   ├── 01_Monthly_Revenue_Analysis.sql
@@ -116,7 +117,7 @@ Ecommerce-Business-Analytics/
 │
 ├── PowerBI/
 │   ├── Ecommerce_Business_Analytics.pbix
-│   └── Ecommerce_Business_Analytics_Report.pdf
+│   └── Ecommerce_Business_Analytics.pdf
 │
 ├── Screenshots/
 │   ├── sales_dashboard.png
@@ -124,6 +125,12 @@ Ecommerce-Business-Analytics/
 │
 └── README.md
 
+
+## Dataset
+
+**Source:** UCI Machine Learning Repository – Online Retail II
+
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
 Dataset
 
 Source: UCI Machine Learning Repository – Online Retail II
