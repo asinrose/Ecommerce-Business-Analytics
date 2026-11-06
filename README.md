@@ -57,7 +57,7 @@ Analyses customer behaviour through:
 - Top 10 customers by revenue
 - Champions, Loyal Customers, Potential Loyalists, At Risk, Lost Customers and Others
 
-![Customer RFM Dashboard](Dashboard2 photo)
+![Customer RFM Dashboard](Dashboard2 photo.png)
 
 )
 
