@@ -46,8 +46,8 @@ Analyses business performance through:
 - Top 10 products by revenue
 - Date, product and country filters
 
-![Sales Analytics Dashboard](<img width="1115" height="627" alt="image" src="https://github.com/user-attachments/assets/caf656b0-5e77-47d2-9085-ab17771d57fa" />
-)\
+![Sales Analytics Dashboard](Dashboard1 photo.png)
+
 
 ### 2. Customer Insights & RFM Analysis
 
@@ -57,7 +57,8 @@ Analyses customer behaviour through:
 - Top 10 customers by revenue
 - Champions, Loyal Customers, Potential Loyalists, At Risk, Lost Customers and Others
 
-![Customer RFM Dashboard](<img width="1128" height="638" alt="image" src="https://github.com/user-attachments/assets/d7308d8e-4973-4166-a672-fe095d92fa84" />
+![Customer RFM Dashboard](Dashboard2 photo)
+
 )
 
 ## Key Business Insights
